@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "277175427406",
+    "firebase_url": "https://monktree1.firebaseio.com",
+    "project_id": "monktree1",
+    "storage_bucket": "monktree1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277175427406:android:8d1ad24f97404bad1a7e1f",
+        "android_client_info": {
+          "package_name": "com.example.monktree11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277175427406-grd81ok5r02f5sb4d4s5j5lj88tvlj5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALeXj8Hp5ekfA_CDN0MlxORyWZoS_AyRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277175427406-grd81ok5r02f5sb4d4s5j5lj88tvlj5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
